@@ -22,7 +22,7 @@ Analyzes email text and assigns a risk score based on predefined rules. Checks f
 
 ```bash
 cd phishing_email_analyzer
-python main.py suspicious_email.txt
+python main.py suspicious_sample.txt
 ```
 
 Or with stdin:
