@@ -34,3 +34,7 @@ Skip DNS lookup:
 ```bash
 python main.py email.txt --no-dns
 ```
+## Motivation
+
+I built this tool while studying for my Google Cybersecurity Certificate 
+to better understand how phishing emails are structured and detected.
